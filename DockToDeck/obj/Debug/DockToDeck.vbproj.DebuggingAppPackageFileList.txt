@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\DockToDeckManifest.xml
+C:\Users\kragar\source\repos\DockToDeck\DockToDeck\bin\Debug\DockToDeck.debugapp

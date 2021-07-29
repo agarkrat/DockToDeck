@@ -1,0 +1,7 @@
+False
+26327aca-dbea-481e-a507-5b06503a691ffef28771-cd4e-47f2-8762-e1c56ce7ed3d
+{77820a50-d373-4333-abd0-5b0daf422f12}{210e316f-5021-4f16-8b24-0fe36db98934}
+{ea660ef2-930c-4f67-8b63-bc8c26a3bebb}
+1.0.0.0
+DockToDeck
+_layouts/15/

@@ -1,0 +1,2 @@
+C:\Users\kragar\source\repos\DockToDeck\DockToDeck\obj\Debug\DockToDeck.vbprojAssemblyReference.cache
+C:\Users\kragar\source\repos\DockToDeck\DockToDeck\obj\Debug\DockToDeck.vbproj.CoreCompileInputs.cache

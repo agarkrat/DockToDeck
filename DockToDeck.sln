@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31409.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DockToDeck", "DockToDeck\DockToDeck.vbproj", "{924FA0F4-AAB9-4B94-8CBD-457FD29A2923}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DockToDeckWeb", "DockToDeckWeb\DockToDeckWeb.vbproj", "{44077C41-3761-42EF-AE4D-BE6DBC37E42F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{924FA0F4-AAB9-4B94-8CBD-457FD29A2923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{924FA0F4-AAB9-4B94-8CBD-457FD29A2923}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{924FA0F4-AAB9-4B94-8CBD-457FD29A2923}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{924FA0F4-AAB9-4B94-8CBD-457FD29A2923}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{924FA0F4-AAB9-4B94-8CBD-457FD29A2923}.Release|Any CPU.Build.0 = Release|Any CPU
+		{924FA0F4-AAB9-4B94-8CBD-457FD29A2923}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{44077C41-3761-42EF-AE4D-BE6DBC37E42F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44077C41-3761-42EF-AE4D-BE6DBC37E42F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44077C41-3761-42EF-AE4D-BE6DBC37E42F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44077C41-3761-42EF-AE4D-BE6DBC37E42F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0D4098A-7A88-4848-8D6D-520976CCBCFA}
+	EndGlobalSection
+EndGlobal
